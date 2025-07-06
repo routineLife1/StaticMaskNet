@@ -37,6 +37,7 @@ Coming soon.
 2. Simplify or improve the architecture (I believe a smaller and faster network may be sufficient).
 3. Design loss functions better suited for this specific task.
 4. Joint refine with vfi network.
+5. Incorporate multiple input frames (e.g., input shape: (B, N, H, W)) along with corresponding inter-frame difference cues, and train the network to predict a sequence of masks (B, N-1, H, W) in one pass. The goal is to let the network learn to retain or discard specific temporal information adaptively, which may improve both accuracy and efficiency.
 
 # 🌟Acknowledgment
 **This project is supported by [SVFI Development Team](https://github.com/Justin62628/Squirrel-RIFE)**
