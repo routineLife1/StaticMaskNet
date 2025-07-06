@@ -37,5 +37,8 @@ Coming soon.
 2. Simplify or improve the architecture (I believe a smaller and faster network may be sufficient).
 3. Design loss functions better suited for this specific task.
 
+# 🌟Acknowledgment
+**This project is supported by [SVFI Development Team](https://github.com/Justin62628/Squirrel-RIFE)**
+
 # 🔗Reference
 [[Practical-RIFE]](https://github.com/hzwer/Practical-RIFE) [[Exploring-Discontinuity-for-VFI]](https://github.com/pandatimo/Exploring-Discontinuity-for-VFI)
